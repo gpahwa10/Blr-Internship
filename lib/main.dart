@@ -5,14 +5,14 @@ import 'package:firebase_core/firebase_core.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
-  await Firebase.initializeApp(
-      options: const FirebaseOptions(
-    apiKey: 'AIzaSyApQzHITauln1hmQcf7C_eGrynw6_HvI0Q',
-    appId: '1:258084177864:android:a349274191489bdf03a2fd',
-    messagingSenderId: '258084177864	',
-    projectId: 'healthapp-12e98',
-    storageBucket: 'healthapp-12e98.appspot.com',
-  ));
+  // await Firebase.initializeApp(
+  //     options: const FirebaseOptions(
+  //   apiKey: 'AIzaSyApQzHITauln1hmQcf7C_eGrynw6_HvI0Q',
+  //   appId: '1:258084177864:android:a349274191489bdf03a2fd',
+  //   messagingSenderId: '258084177864	',
+  //   projectId: 'healthapp-12e98',
+  //   storageBucket: 'healthapp-12e98.appspot.com',
+  // ));
 
   runApp(const MyApp());
 }
