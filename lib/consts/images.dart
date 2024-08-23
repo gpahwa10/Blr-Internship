@@ -1,0 +1,15 @@
+const imgFitness = "assets/images/fitness.png";
+const imgPerson = "assets/images/person.png";
+const imgPushup = "assets/images/pushups.png";
+const imgSquat = "assets/images/squat.png";
+const imgStretch = "assets/images/stretch.png";
+const imgDoctor = "assets/images/doctor.png";
+const imgDumbbell = "assets/images/dumbbell.png";
+const imgGroup = "assets/images/Group.png";
+const imgheart = "assets/images/heart.png";
+const imglappyfit = "assets/images/lappyfit.png";
+const imgmessage = "assets/images/message.png";
+const imgphysio = "assets/images/physio.png";
+const imgprogress = "assets/images/progress.png";
+const imgsecurity = "assets/images/security.png";
+const imgposture ="assets/images/posture.png";
